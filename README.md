@@ -85,4 +85,4 @@ Giveaway.delete(id); // Delete a giveaway, you can provide the Giveaway ID or th
 ```
 
 ### Credits
-- [Mw3y](https://github.com/Mw3y/), for his [Text-ProgressBar](https://github.com/Mw3y/Text-ProgressBar)
+- [Mw3y](https://github.com/S00TDev/), for his [Text-ProgressBar](https://github.com/Mw3y/Text-ProgressBar)
